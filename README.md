@@ -27,5 +27,5 @@ Desktop Media Viewer
   
   ## If you like this project , do STAR this repository to keep the developer sane :)
   
-  ## Thanks for visiting. You can visit my other works in my github repository or in [kaggle](kaggle.com/sagnik1551/code).
+  ## Thanks for visiting. You can visit my other works in my github repository or in [kaggle](kaggle.com/sagnik1511/code).
   
