@@ -7,7 +7,13 @@ Desktop Media Viewer
 
 ## Interface :
 
+#### Static :
+
 ![](https://github.com/sagnik1511/RGB_Studio/blob/main/interface_RGB_studio.png)
+
+#### Functional :
+
+![](https://github.com/sagnik1511/RGB_Studio/blob/main/function_interface.png)
 
 ## requirements :
     
