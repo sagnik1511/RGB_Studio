@@ -24,6 +24,8 @@ Desktop Media Viewer
           !pip install opencv-python
   If you're using Python 3 and above then you do not have to install or reinstall tkinter.
   
+  **To-do list** : Will update a single file application.
+  
   
   ## If you like this project , do STAR this repository to keep the developer sane :)
   
