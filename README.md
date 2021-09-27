@@ -1,4 +1,4 @@
-# RGB_Studio
+<div align="center"><h1>RGB_Studio</h1></div>
 Desktop Media Viewer 
 
 ![](https://github.com/sagnik1511/RGB_Studio/blob/main/RGB%20studio.png)
